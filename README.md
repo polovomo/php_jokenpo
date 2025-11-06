@@ -31,6 +31,7 @@ O Jokenpô Web é uma aplicação educacional desenvolvida em PHP que simula o c
 | **Versionamento** | Git |
 
 ## 📁 Estrutura do Projeto
+````
 jokenpo-web/
 ├── index.php
 ├── assets/
@@ -41,8 +42,8 @@ jokenpo-web/
 │ ├── tesoura.png
 │ └── usu.png
 └── README.md
+````
 
-text
 
 ## 🎯 Funcionalidades
 
